@@ -1,5 +1,5 @@
 body{
-    background-color:blue;
+    background-color: black;
     width: 100%;
     height: 700px;
     margin:0px;
@@ -12,11 +12,11 @@ body{
 }
 
 .cabecalho{
-    background-color:blue ;
+    background-color: red ;
     width: 100%;
     height: 70px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    border-bottom:0.5px solid BLUE;
+    border-bottom:0.5px solid white;
     font-weight: bold;
     display:flow-root;
     position: fixed;
@@ -65,8 +65,8 @@ body{
 
 .neon{
 	text-align: center;
-	color: #black;
-	text-shadow:  0 0 5px #fff, 0 0 10px #fff, 0 0 20px  #9B30FF, 0 0 20px  #9B30FF, 0 0 20px  #9B30FF, 0 0 20px #9B30FF, 0 0 20px  #9B30FF;
+	color: green;
+	text-shadow:  0 0 5px #fff, 0 0 10px #fff, 0 0 20px  green, 0 0 20px green, 0 0 20px green, 0 0 20px green, 0 0 20px  green;
 }
 
 .img{
@@ -90,7 +90,7 @@ body{
 
 .fiel{
 	border-style: ridge;
-	border-color: #9B30FF;
+	border-color: green;
 	border-width: 5px;
 width:400px;
 height:500x;
@@ -124,29 +124,29 @@ text-align: left;
 }
 .adm{
     border-style: solid;
-	border-color: #9B30FF; 
+	border-color: green; 
 	border-width: 2px; 
 	padding: 2px; 
-	-moz-box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px  #9B30FF, 0 0 20px  #9B30FF, 0 0 20px  #9B30FF, 0 0 20px #9B30FF, 0 0 20px  #9B30FF;
-	-webkit-box-shadow:  0 0 5px #fff, 0 0 10px #fff, 0 0 20px  #9B30FF, 0 0 20px  #9B30FF, 0 0 20px  #9B30FF, 0 0 20px #9B30FF, 0 0 20px  #9B30FF;;
+	-moz-box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px  green, 0 0 20px  green, 0 0 20px  green, 0 0 20px green, 0 0 20px  green;
+	-webkit-box-shadow:  0 0 5px #fff, 0 0 10px #fff, 0 0 20px  green, 0 0 20px  green, 0 0 20px  green, 0 0 20px green, 0 0 20px  green;;
 }
 
 .ads{
 border-style: solid;
-	border-color: #9B30FF; 
+	border-color: green; 
 	border-width: 2px; 
 	padding: 2px; 
-	-moz-box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px  #9B30FF, 0 0 20px  #9B30FF, 0 0 20px  #9B30FF, 0 0 20px #9B30FF, 0 0 20px  #9B30FF;
-	-webkit-box-shadow:  0 0 5px #fff, 0 0 10px #fff, 0 0 20px  #9B30FF, 0 0 20px  #9B30FF, 0 0 20px  #9B30FF, 0 0 20px #9B30FF, 0 0 20px  #9B30FF;;
+	-moz-box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px  green, 0 0 20px  green, 0 0 20px  green, 0 0 20px green, 0 0 20px  green;
+	-webkit-box-shadow:  0 0 5px #fff, 0 0 10px #fff, 0 0 20px  green, 0 0 20px  green, 0 0 20px  green, 0 0 20px green, 0 0 20px  green;;
 }
 
 .bd{
 border-style: solid;
-	border-color: #9B30FF; 
+	border-color: green; 
 	border-width: 2px; 
 	padding: 2px; 
-	-moz-box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px  #9B30FF, 0 0 20px  #9B30FF, 0 0 20px  #9B30FF, 0 0 20px #9B30FF, 0 0 20px  #9B30FF;
-	-webkit-box-shadow:  0 0 5px #fff, 0 0 10px #fff, 0 0 20px  #9B30FF, 0 0 20px  #9B30FF, 0 0 20px  #9B30FF, 0 0 20px #9B30FF, 0 0 20px  #9B30FF;;
+	-moz-box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px  green, 0 0 20px  green, 0 0 20px  green, 0 0 20px green, 0 0 20px  green;
+	-webkit-box-shadow:  0 0 5px #fff, 0 0 10px #fff, 0 0 20px  green, 0 0 20px  green, 0 0 20px  green, 0 0 20px green, 0 0 20px  green;;
 }
 
 .si{
@@ -154,30 +154,30 @@ border-style: solid;
 	border-color: #9B30FF; 
 	border-width: 2px; 
 	padding: 2px; 
-	-moz-box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px  #9B30FF, 0 0 20px  #9B30FF, 0 0 20px  #9B30FF, 0 0 20px #9B30FF, 0 0 20px  #9B30FF;
-	-webkit-box-shadow:  0 0 5px #fff, 0 0 10px #fff, 0 0 20px  #9B30FF, 0 0 20px  #9B30FF, 0 0 20px  #9B30FF, 0 0 20px #9B30FF, 0 0 20px  #9B30FF;;
+	-moz-box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px  green, 0 0 20px  green, 0 0 20px  green, 0 0 20px green, 0 0 20px  green;
+	-webkit-box-shadow:  0 0 5px #fff, 0 0 10px #fff, 0 0 20px  green, 0 0 20px  green, 0 0 20px  green, 0 0 20px green, 0 0 20px  green;;
 }
 
 .curso{
 
 	
 	border-style: solid;
-	border-color: #9B30FF; 
+	border-color: green; 
 	border-width: 2px; 
 	padding: 2px; 
-	-moz-box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px  #9B30FF, 0 0 20px  #9B30FF, 0 0 20px  #9B30FF, 0 0 20px #9B30FF, 0 0 20px  #9B30FF;
-	-webkit-box-shadow:  0 0 5px #fff, 0 0 10px #fff, 0 0 20px  #9B30FF, 0 0 20px  #9B30FF, 0 0 20px  #9B30FF, 0 0 20px #9B30FF, 0 0 20px  #9B30FF;;
+	-moz-box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px  green, 0 0 20px  green, 0 0 20px  green, 0 0 20px green, 0 0 20px  green;
+	-webkit-box-shadow:  0 0 5px #fff, 0 0 10px #fff, 0 0 20px  green, 0 0 20px  green, 0 0 20px  green, 0 0 20px green, 0 0 20px  green;;
 }
 
 
 .field{
-    border:2px groove #8470FF /* Border width, style and colour*/
+    border:2px groove green /* Border width, style and colour*/
 }
 
 
 * {box-sizing: border-box;}
 
-nav {background: blue;}
+nav {background: black;}
 nav ul {
   list-style: none;
   margin: 0;
@@ -222,7 +222,7 @@ nav a {
   letter-spacing: 1px;
   font-family: 'Exo 2', sans-serif;
 }
-.topmenu li a:hover {color:  #9B30FF;}
+.topmenu li a:hover {color:  green;}
 .submenu {
   position: absolute;
   left: 50%;
